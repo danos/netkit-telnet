@@ -1,3 +1,9 @@
+netkit-telnet (0.17-41.2+vyatta1) UNRELEASED; urgency=medium
+
+  * Update version 
+
+ -- Nachiketa Prachanda <nprachan@vyatta.att-mail.com>  Wed, 18 Nov 2020 11:07:43 -0800
+
 netkit-telnet (0.17-41.2) unstable; urgency=high
 
   * Non-maintainer upload
