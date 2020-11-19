@@ -1,8 +1,9 @@
-netkit-telnet (0.17-41.2+vyatta1) UNRELEASED; urgency=medium
+netkit-telnet (0.17-41.2+vyatta1) unstable; urgency=medium
 
   * Update version 
+  * fix infinite recursion on cleanup
 
- -- Nachiketa Prachanda <nprachan@vyatta.att-mail.com>  Wed, 18 Nov 2020 11:07:43 -0800
+ -- Nachiketa Prachanda <nprachan@vyatta.att-mail.com>  Thu, 19 Nov 2020 11:03:57 -0800
 
 netkit-telnet (0.17-41.2) unstable; urgency=high
 
